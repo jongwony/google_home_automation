@@ -35,7 +35,10 @@ automations:
       devices: BBQ mood - 주방
     - type: device.command.ActivateScene
       activate: true
+      devices: 어둡게 - 침실
+    - type: device.command.ActivateScene
+      activate: true
       devices: 퇴근길 - 거실
     - type: assistant.command.OkGoogle
       okGoogle: 배호에서 음악 재생
-      devices: 침실 - 침실
+      devices: 배호 - 거실

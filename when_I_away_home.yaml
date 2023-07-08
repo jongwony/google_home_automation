@@ -64,5 +64,5 @@ automations:
       okGoogle: 보일러 외출 모드
       devices: 침실 - 침실
     - type: assistant.command.OkGoogle
-      okGoogle: 배호에서 음악 꺼
-      devices: 침실 - 침실
+      okGoogle: 배호에서 음악 중지
+      devices: 배호 - 거실
